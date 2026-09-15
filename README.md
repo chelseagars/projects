@@ -1,2 +1,2 @@
 # projects
-A brief overview of my personal interest projects. 
+a brief overview of my personal interest projects. 
